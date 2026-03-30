@@ -11,6 +11,7 @@ O desenvolvimento foi baseado em um repositório de referência disponibilizado 
 ----------------------
 
 Description. 
+
 The package processamento_imagem is used to:
 	Processamento:
 		- Comparacao de histogramas
